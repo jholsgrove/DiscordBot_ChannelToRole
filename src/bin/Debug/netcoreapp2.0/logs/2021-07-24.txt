@@ -1,0 +1,298 @@
+12:03:16 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:03:17 [Info] Gateway: Connecting
+12:03:50 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:03:50 [Info] Gateway: Connecting
+12:03:51 [Info] Gateway: Connected
+12:03:52 [Info] Gateway: Ready
+12:16:26 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:16:27 [Info] Gateway: Connecting
+12:16:28 [Info] Gateway: Connected
+12:16:28 [Info] Gateway: Ready
+12:17:29 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:17:30 [Info] Gateway: Connecting
+12:17:31 [Info] Gateway: Connected
+12:17:32 [Info] Gateway: Ready
+12:18:17 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:18:18 [Info] Gateway: Connecting
+12:18:19 [Info] Gateway: Connected
+12:18:19 [Info] Gateway: Ready
+12:18:39 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in Covid Support Group/assbot. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 29
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:20:53 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:20:54 [Info] Gateway: Connecting
+12:20:55 [Info] Gateway: Connected
+12:20:55 [Info] Gateway: Ready
+12:31:50 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:31:51 [Info] Gateway: Connecting
+12:31:52 [Info] Gateway: Connected
+12:31:52 [Info] Gateway: Ready
+12:32:16 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in Covid Support Group/assbot. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 35
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:33:11 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:33:12 [Info] Gateway: Connecting
+12:33:12 [Info] Gateway: Connected
+12:33:13 [Info] Gateway: Ready
+12:33:27 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in Covid Support Group/assbot. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 35
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:34:31 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:34:32 [Info] Gateway: Connecting
+12:34:32 [Info] Gateway: Connected
+12:34:33 [Info] Gateway: Ready
+12:34:43 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in Covid Support Group/assbot. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 35
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:40:48 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:40:49 [Info] Gateway: Connecting
+12:40:50 [Info] Gateway: Connected
+12:40:51 [Info] Gateway: Ready
+12:41:01 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 35
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:47:13 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:47:14 [Info] Gateway: Connecting
+12:47:14 [Info] Gateway: Connected
+12:47:15 [Info] Gateway: Ready
+12:47:35 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 65
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:48:31 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:48:32 [Info] Gateway: Connecting
+12:48:33 [Info] Gateway: Connected
+12:48:33 [Info] Gateway: Ready
+12:48:48 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 65
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:50:40 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:50:41 [Info] Gateway: Connecting
+12:50:41 [Info] Gateway: Connected
+12:50:42 [Info] Gateway: Ready
+12:50:53 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 65
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:51:25 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:51:26 [Info] Gateway: Connecting
+12:51:27 [Info] Gateway: Connected
+12:51:27 [Info] Gateway: Ready
+12:51:39 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 65
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:55:53 [Info] Discord: Discord.Net v2.0.1 (API v6)
+12:55:54 [Info] Gateway: Connecting
+12:55:54 [Info] Gateway: Connected
+12:55:55 [Info] Gateway: Ready
+12:56:02 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 65
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:01:57 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:01:57 [Info] Gateway: Connecting
+01:01:58 [Info] Gateway: Connected
+01:01:59 [Info] Gateway: Ready
+01:02:45 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:02:46 [Info] Gateway: Connecting
+01:02:47 [Info] Gateway: Connected
+01:02:47 [Info] Gateway: Ready
+01:03:03 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\Discord.Net-Example\src\Modules\ExampleModule.cs:line 32
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:06:48 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:06:49 [Info] Gateway: Connecting
+01:07:17 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:07:18 [Info] Gateway: Connecting
+01:07:19 [Info] Gateway: Connected
+01:07:19 [Info] Gateway: Ready
+01:09:46 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:09:47 [Info] Gateway: Connecting
+01:09:48 [Info] Gateway: Connected
+01:09:48 [Info] Gateway: Ready
+01:38:04 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:38:04 [Info] Gateway: Connecting
+01:38:05 [Info] Gateway: Connected
+01:38:06 [Info] Gateway: Ready
+01:38:17 [Error] Command: Discord.Commands.CommandException: Error occurred executing "getchannels" for goatpod#2853 in bot test ground/general. ---> Discord.Net.HttpException: The server responded with error 50013: Missing Permissions
+   at Discord.Net.Queue.RequestBucket.SendAsync(RestRequest request)
+   at Discord.Net.Queue.RequestQueue.SendAsync(RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendInternalAsync(String method, String endpoint, RestRequest request)
+   at Discord.API.DiscordRestApiClient.SendAsync[TResponse](String method, String endpoint, String bucketId, ClientBucketType clientBucket, RequestOptions options)
+   at Discord.API.DiscordRestApiClient.CreateGuildRoleAsync(UInt64 guildId, RequestOptions options)
+   at Discord.Rest.GuildHelper.CreateRoleAsync(IGuild guild, BaseDiscordClient client, String name, Nullable`1 permissions, Nullable`1 color, Boolean isHoisted, RequestOptions options)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\channeltorolebot\src\Modules\ExampleModule.cs:line 33
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:40:08 [Info] Discord: Discord.Net v2.0.1 (API v6)
+01:40:09 [Info] Gateway: Connecting
+01:40:10 [Info] Gateway: Connected
+01:40:11 [Info] Gateway: Ready
+01:51:33 [Info] Discord: Discord.Net v2.1.0 (API v6)
+01:51:34 [Info] Gateway: Connecting
+01:51:35 [Info] Gateway: Connected
+01:51:35 [Info] Gateway: Ready
+02:03:32 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:03:33 [Info] Gateway: Connecting
+02:03:34 [Info] Gateway: Connected
+02:03:35 [Info] Gateway: Ready
+02:04:01 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:04:02 [Info] Gateway: Connecting
+02:04:03 [Info] Gateway: Connected
+02:04:03 [Info] Gateway: Ready
+02:08:19 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:08:22 [Info] Gateway: Connecting
+02:08:23 [Info] Gateway: Connected
+02:08:23 [Info] Gateway: Ready
+02:12:25 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:12:26 [Info] Gateway: Connecting
+02:12:27 [Info] Gateway: Connected
+02:12:27 [Info] Gateway: Ready
+02:14:49 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:14:50 [Info] Gateway: Connecting
+02:14:50 [Info] Gateway: Connected
+02:14:51 [Info] Gateway: Ready
+02:17:59 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:18:00 [Info] Gateway: Connecting
+02:18:01 [Info] Gateway: Connected
+02:18:01 [Info] Gateway: Ready
+02:22:52 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:22:54 [Info] Gateway: Connecting
+02:22:55 [Info] Gateway: Connected
+02:22:56 [Info] Gateway: Ready
+02:23:50 [Error] Command: Discord.Commands.CommandException: Error occurred executing "createroles" for goatpod#2853 in bot test ground/general. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Example.Modules.ExampleModule.CreateRoles() in C:\Repos\channeltorolebot\src\Modules\ExampleModule.cs:line 31
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+02:24:43 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:24:44 [Info] Gateway: Connecting
+02:24:45 [Info] Gateway: Connected
+02:24:45 [Info] Gateway: Ready
+02:25:59 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+02:26:00 [Info] Gateway: Disconnecting
+02:26:00 [Info] Gateway: Disconnected
+02:27:14 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:27:15 [Info] Gateway: Connecting
+02:27:16 [Info] Gateway: Connected
+02:27:16 [Info] Gateway: Ready
+02:34:37 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:34:38 [Info] Gateway: Connecting
+02:34:39 [Info] Gateway: Connected
+02:34:39 [Info] Gateway: Ready
+02:41:05 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:41:06 [Info] Gateway: Connecting
+02:41:07 [Info] Gateway: Connected
+02:41:07 [Info] Gateway: Ready
+02:42:45 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:42:46 [Info] Gateway: Connecting
+02:42:47 [Info] Gateway: Connected
+02:42:48 [Info] Gateway: Ready
+02:47:24 [Info] Discord: Discord.Net v2.1.0 (API v6)
+02:47:25 [Info] Gateway: Connecting
+02:47:25 [Info] Gateway: Connected
+02:47:26 [Info] Gateway: Ready
