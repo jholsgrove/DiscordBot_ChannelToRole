@@ -52,3 +52,5 @@ Thumbs.db
 /channeltorolebot/obj
 /channeltorolebot/bin
 /channeltorolebot/channeltorolebot.csproj.user
+/src/bin
+/src/obj
